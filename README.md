@@ -1,5 +1,4 @@
-## LEEROOOOY JEEEENKINSSS! 🗡
-### ADS - 2º Semestre 📘
+## ADS - 2º Semestre 📘
 
 <div align="center">
   <a href="https://github.com/regimif">
