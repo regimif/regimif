@@ -1,9 +1,9 @@
 ## ADS - 2º Semestre
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/regimif">
-  <img height="justify" src="https://github-readme-stats.vercel.app/api?username=regimif&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=regimif&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tminet&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tminet&layout=compact&langs_count=16&theme=github_dark" />
 </div>
  
 ## 
