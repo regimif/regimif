@@ -1,6 +1,7 @@
 ## ADS - 2º Semestre
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=regimif&include_all_commits=true&count_private=true&theme=github_dark)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regimif&layout=compact&theme=github_dark)](#)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=regimif&include_all_commits=true&count_private=true&theme=github_dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regimif&layout=compact&theme=github_dark)](#)
  
 ## 
   
