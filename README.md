@@ -11,7 +11,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Regi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Regi-pic" height="150" style="border-radius:50px;"
-src="https://media.giphy.com/media/5ff5uUj48vxOOVbPyh/giphy.gif">
+src="https://i.imgur.com/MdLgYLl.gif">
 </div>
   
 ##
