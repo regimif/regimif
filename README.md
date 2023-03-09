@@ -1,4 +1,4 @@
-## ADS - 3º Semestre
+## ADS - 4º Semestre
 
 <div align="center">
   <a href="https://github.com/regimif">
@@ -18,7 +18,7 @@ src="https://i.imgur.com/MdLgYLl.gif">
 ##
  
 <div> 
-  <a href = "mailto:reginaldoisidoro21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:reginaldoisidoro21@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  ![Snake animation](https://github.com/regimif/regimif/blob/output/github-contribution-grid-snake.svg)
  
