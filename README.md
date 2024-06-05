@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=regimif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=regimif&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=regimif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=regimif&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=regimif&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&custom_title=Contribuition%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -23,10 +24,6 @@
 
 ###
 
-<img align="right" height="144" src="https://media1.tenor.com/m/TSJ8PZ22LR8AAAAC/toothless-dragon.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,5 +35,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/TSJ8PZ22LR8AAAAC/toothless-dragon.gif"  />
 
 ###
